@@ -24,7 +24,7 @@ Preprocess raw 10x Genomics data from three GEO datasets to extract high-purity 
 - `README.md`
 - `.gitignore`
 
-## Pipeline (each notebook)
+## Pipeline 
 1. Load matrix.mtx.gz + barcodes + features
 2. QC (genes >200, mt% <20%, doublet removal)
 3. Normalization (10k scaling + log1p)
