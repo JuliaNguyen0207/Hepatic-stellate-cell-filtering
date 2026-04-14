@@ -1,6 +1,6 @@
 # Hepatic-stellate-cell-filtering
 
-#A reproducible Scanpy-based workflow for preprocessing public human liver single-cell RNA-seq datasets and filtering high-confidence hepatic stellate cells (HSCs) for downstream integration and comparative analysis.**
+A reproducible Scanpy-based workflow for preprocessing public human liver single-cell RNA-seq datasets and filtering high-confidence hepatic stellate cells (HSCs) for downstream integration and comparative analysis.**
 
 **Presented at** THE 16TH AFOB REGIONAL SYMPOSIUM (ARS 2026)
 
